@@ -34,9 +34,6 @@
         <mxCell id="VtknCrWX5NsYUehJd_TC-8" value="推理时 查询核心集" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="306" y="1716" width="181" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="VtknCrWX5NsYUehJd_TC-9" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="89" y="1376" width="92" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="VtknCrWX5NsYUehJd_TC-10" value="读取测试图像 正常/缺陷样本" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="1484" width="164" height="66" as="geometry" />
         </mxCell>
@@ -93,9 +90,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VtknCrWX5NsYUehJd_TC-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtknCrWX5NsYUehJd_TC-9" target="VtknCrWX5NsYUehJd_TC-10">
+        <mxCell id="VtknCrWX5NsYUehJd_TC-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="VtknCrWX5NsYUehJd_TC-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="134" y="1390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VtknCrWX5NsYUehJd_TC-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VtknCrWX5NsYUehJd_TC-10" target="VtknCrWX5NsYUehJd_TC-11">
